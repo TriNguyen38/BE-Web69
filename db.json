@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "name": "Oppo",
+      "desc": "Phone",
+      "id": "111"
+    },
+    {
+      "name": "Huawei",
+      "desc": "Phone",
+      "id": "6fJUW36"
+    },
+    {
+      "name": "Samsung",
+      "desc": "Phone",
+      "id": "ywx19rv"
+    },
+    {
+      "name": "Apple",
+      "desc": "Phone",
+      "id": "Fj3hMKX"
+    },
+    {
+      "name": "Redmi",
+      "desc": "Phone",
+      "id": "lb0FLto"
+    },
+    {
+      "name": "vertu",
+      "desc": "Phone",
+      "id": "A44CsQa"
+    }
+  ]
+}
